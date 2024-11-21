@@ -1,0 +1,17 @@
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\bin\Debug\InterfazDentalidea2.exe.config
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\bin\Debug\InterfazDentalidea2.exe
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\bin\Debug\InterfazDentalidea2.pdb
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.csproj.AssemblyReference.cache
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.FormInicioSesion.resources
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.Properties.Resources.resources
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.csproj.GenerateResource.cache
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.exe
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.pdb
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.MenuUsuarios.resources
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.AgendarCitaUsuario.resources
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.EditarCitaUsuario.resources
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.EliminarCitaUsuario.resources
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.MenuColaboradores.resources
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.RegistrarHistorialMedico.resources
+C:\Users\Silvio Mejia\source\repos\InterfazDentalidea2\InterfazDentalidea2\obj\Debug\InterfazDentalidea2.RegistrarPaceinteColaborador.resources
