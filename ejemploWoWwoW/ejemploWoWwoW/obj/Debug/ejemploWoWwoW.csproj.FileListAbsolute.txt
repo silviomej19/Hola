@@ -1,0 +1,10 @@
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\obj\Debug\ejemploWoWwoW.csproj.AssemblyReference.cache
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\obj\Debug\ejemploWoWwoW.Form1.resources
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\obj\Debug\ejemploWoWwoW.Properties.Resources.resources
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\obj\Debug\ejemploWoWwoW.csproj.GenerateResource.cache
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\obj\Debug\ejemploWoWwoW.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\bin\Debug\ejemploWoWwoW.exe.config
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\bin\Debug\ejemploWoWwoW.exe
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\bin\Debug\ejemploWoWwoW.pdb
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\obj\Debug\ejemploWoWwoW.exe
+C:\Users\Silvio Mejia\source\repos\ejemploWoWwoW\ejemploWoWwoW\obj\Debug\ejemploWoWwoW.pdb
